@@ -5,7 +5,7 @@ A summary of what I did for this project is located at (username blocked out in 
 
 Source: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
-There were at least 2 commands I couldn't use, cal and man. I also didn't experiment much with the backup.sh because I didn't have the exact directories.
+There were at least 2 commands I couldn't use, cal and man. I also didn't experiment much with the backup.sh because I didn't have the exact directories as the tutorial.
 
 I was also under a different username throughout the process which is why I had to block the name out.
 
