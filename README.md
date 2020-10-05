@@ -11,4 +11,4 @@ I was also under a different username throughout the process which is why I had 
 
 Sent repo link to partner at 10/4/2020 11:09 pm.
 
-Fork of partners repo: https://github.com/vbx237/tutorial-repo
+Fork of partner's repo: https://github.com/vbx237/tutorial-repo
