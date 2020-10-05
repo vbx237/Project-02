@@ -1,7 +1,9 @@
 # Project-02
 Scripting in Bash
 
-A summary of what I did for this project is located at (username blocked out in images): https://gofile.io/d/pFEpTE
+A summary of what I did for this project is located at (username blocked out in images): 
+https://github.com/vbx237/Project-02/blob/main/ReadMeofP2.pdf
+Backup: https://gofile.io/d/pFEpTE
 
 Source: https://linuxconfig.org/bash-scripting-tutorial-for-beginners
 
